@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="bat1table" language="en" table="sn_bat1_bat1table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>bat1table</label>
+            <language>en</language>
+            <name>sn_bat1_bat1table</name>
+            <plural>bat1tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>maint</sys_created_by>
+            <sys_created_on>2020-02-08 19:18:39</sys_created_on>
+            <sys_id>076753d619b68010f87779baf659d3e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>bat1table</sys_name>
+            <sys_package display_value="bat1" source="sn_bat1">88075f9619b68010f87779baf659d3aa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="bat1">88075f9619b68010f87779baf659d3aa</sys_scope>
+            <sys_update_name>sys_documentation_sn_bat1_bat1table__en</sys_update_name>
+            <sys_updated_by>maint</sys_updated_by>
+            <sys_updated_on>2020-02-08 19:18:39</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
